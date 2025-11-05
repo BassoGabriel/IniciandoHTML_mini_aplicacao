@@ -1,6 +1,5 @@
 ---
-markdown
-Página Web Simples
+#3 Página Web Simples
 
 Este é um projeto básico de site estático com múltiplas páginas, ideal para fins de aprendizado e portfólio. O site é construído com HTML, CSS e JavaScript puro, e conta com botões de navegação, formulário de contato e layout responsivo simples.
 
@@ -40,9 +39,6 @@ Você pode clonar este repositório e abrir o arquivo `index.html` em seu navega
 - CSS3
 - JavaScript (vanilla)
 
-📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
